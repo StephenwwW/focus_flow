@@ -82,7 +82,7 @@ View this document in English
 
 ## 軟體截圖
 ![Screenshot](focus_flow/images/screenshot.png)
-![Screenshot](focus_flow/images/schedule preview.png)
+![Screenshot](images/schedule preview.png)
 
 
 環境設定與安裝
@@ -118,4 +118,5 @@ python main.py
 點擊「預覽並啟動今日番茄鐘」按鈕，即可檢視生成的排程並開始您的專注時光。
 
 授權條款
+
 本專案採用 MIT 授權條款。
