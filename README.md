@@ -31,7 +31,7 @@ A desktop task scheduling and Pomodoro timer application built with Python and P
 
 **2. Clone the Repository**
 ```bash
-git clone [https://github.com/StephenwwW/Focus_Flow.git](https://github.com/StephenwwW/Focus_Flow.git)
+git clone https://github.com/StephenwwW/Focus_Flow.git
 cd Focus_Flow
 ```
 
@@ -128,5 +128,6 @@ pip install -r requirements.txt
 ### 授權條款
 
 本專案採用 MIT 授權條款。
+
 
 
