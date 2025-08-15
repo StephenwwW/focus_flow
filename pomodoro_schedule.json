@@ -1,0 +1,21 @@
+{
+    "language": "en",
+    "schedule": {
+        "2025-08-15": {
+            "tasks": [
+                {
+                    "name": "self reflection",
+                    "time": "10:00"
+                },
+                {
+                    "name": "review",
+                    "time": "10:30"
+                },
+                {
+                    "name": "study group",
+                    "time": "21:30"
+                }
+            ]
+        }
+    }
+}
