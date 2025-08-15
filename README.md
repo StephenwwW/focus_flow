@@ -126,7 +126,6 @@ pip install -r requirements.txt
 4.  點擊「預覽並啟動今日番茄鐘」按鈕，即可檢視生成的排程並開始您的專注時光。
 
 ### 授權條款
-本專案採用 [MIT License](focus%20flow/LICENSE) 授權。
-
+本專案採用 [MIT License](LICENSE) 授權。
 
 
