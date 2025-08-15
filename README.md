@@ -87,8 +87,8 @@ This project is released under the MIT License.
 
 ### 軟體截圖
 
-![軟體截圖](focus_flow/images/screenshot.png)
-![排程預覽](focus_flow/images/schedule%20preview.png)
+![軟體截圖](images/screenshot.png)
+![排程預覽](images/schedule%20preview.png)
 
 ### 環境設定與安裝
 
@@ -98,7 +98,7 @@ This project is released under the MIT License.
 
 **2. 複製專案**
 ```bash
-git clone [https://github.com/StephenwwW/Focus_Flow.git](https://github.com/StephenwwW/Focus_Flow.git)
+git clone https://github.com/StephenwwW/Focus_Flow.git
 cd Focus_Flow
 ```
 
@@ -128,4 +128,5 @@ pip install -r requirements.txt
 ### 授權條款
 
 本專案採用 MIT 授權條款。
+
 
