@@ -20,8 +20,8 @@ A desktop task scheduling and Pomodoro timer application built with Python and P
 
 ### User Interface
 
-![Screenshot](focus_flow/images/screenshot.png)
-![Schedule Preview](focus_flow/images/schedule%20preview.png)
+![Screenshot](images/screenshot.png)
+![Schedule Preview](images/schedule%20preview.png)
 
 ### Setup & Installation
 
@@ -128,3 +128,4 @@ pip install -r requirements.txt
 ### 授權條款
 
 本專案採用 MIT 授權條款。
+
