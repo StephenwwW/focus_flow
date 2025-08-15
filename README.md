@@ -82,7 +82,7 @@ View this document in English
 
 ## 軟體截圖
 ![Screenshot](focus_flow/images/screenshot.png)
-![Screenshot](images/schedule preview.png)
+![Screenshot](focus_flow/images/schedule preview.png)
 
 
 環境設定與安裝
@@ -120,3 +120,4 @@ python main.py
 授權條款
 
 本專案採用 MIT 授權條款。
+
